@@ -29,7 +29,14 @@ namespace NoteTakingApp
 
         private void deleteButton_Click(object sender, EventArgs e)
         {
-
+            try
+            {
+                notes.Rows[previousNotes.CurrentCell.RowIndex].Delete();
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine("Not a valid note");
+            }
         }
 
         private void loadButton_Click(object sender, EventArgs e)
