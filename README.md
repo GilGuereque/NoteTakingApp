@@ -6,7 +6,7 @@
 3. Load an existing note.
 4. Edit an existing note and save it.
 
-## Instrutions:
+## Instructions:
 1. You can download the source code or clone the repo and open this in your preferred IDE (Visual Studio, VSCode, etc.)
 2. Start the build and run the application.
 3. You can add a Title and a Note then click on the save button.
