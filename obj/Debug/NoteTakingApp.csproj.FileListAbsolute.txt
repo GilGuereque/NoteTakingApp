@@ -1,0 +1,10 @@
+D:\Academia\Projects\CSharpProjects\NoteTakingApp\bin\Debug\NoteTakingApp.exe.config
+D:\Academia\Projects\CSharpProjects\NoteTakingApp\bin\Debug\NoteTakingApp.exe
+D:\Academia\Projects\CSharpProjects\NoteTakingApp\bin\Debug\NoteTakingApp.pdb
+D:\Academia\Projects\CSharpProjects\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.AssemblyReference.cache
+D:\Academia\Projects\CSharpProjects\NoteTakingApp\obj\Debug\NoteTakingApp.NoteTaker.resources
+D:\Academia\Projects\CSharpProjects\NoteTakingApp\obj\Debug\NoteTakingApp.Properties.Resources.resources
+D:\Academia\Projects\CSharpProjects\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.GenerateResource.cache
+D:\Academia\Projects\CSharpProjects\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.CoreCompileInputs.cache
+D:\Academia\Projects\CSharpProjects\NoteTakingApp\obj\Debug\NoteTakingApp.exe
+D:\Academia\Projects\CSharpProjects\NoteTakingApp\obj\Debug\NoteTakingApp.pdb

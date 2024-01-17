@@ -80,12 +80,14 @@ namespace NoteTakingApp
             // 
             // previousNotes
             // 
+            this.previousNotes.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.previousNotes.BackgroundColor = System.Drawing.Color.White;
             this.previousNotes.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.previousNotes.Location = new System.Drawing.Point(12, 9);
             this.previousNotes.Name = "previousNotes";
             this.previousNotes.Size = new System.Drawing.Size(389, 412);
             this.previousNotes.TabIndex = 4;
+            this.previousNotes.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.previousNotes_CellDoubleClick);
             // 
             // loadButton
             // 

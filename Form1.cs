@@ -68,5 +68,12 @@ namespace NoteTakingApp
             noteBox.Text = "";
             editing = false;
         }
+
+        private void previousNotes_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
+        {
+            titleBox.Text = notes.Rows[previousNotes.CurrentCell.RowIndex].ItemArray[0].ToString();
+            noteBox.Text = notes.Rows[previousNotes.CurrentCell.RowIndex].ItemArray[1].ToString();
+            editing = true; // if you load a note you most likely want to edit so we set this to true
+        }
     }
 }
